@@ -40,6 +40,21 @@ local Translations = {
     ["AutoFarm"] = "自动收集",
     ["Auto collect Scrap"] = "自动收集废料",
     ["Auto collect Artifact"] = "自动收集封印书碎片",
+    ["Watch and Power Gui"] = "手表和电机查看",
+    ["Radio Gui Shop Gui-Only works during day"] = "查看电机和商店",
+    ["Radio Gui"] = "查看电机",
+    ["Guis deconstructor"] = "废料解析台",
+    ["GUI workbench"] = "查看工作台",
+    ["See Chat"] = "查看聊天",
+    ["Shiftlock thing by bloxy idk"] = "锁定",
+    ["These are mostly people who will ban/report you so be careful!"] = "小心他们可能会去举报你，甚至封禁你！",
+    ["Detect Special Thanks people"] = "检测特别感谢的人",
+    ["Detect Contributers"] = "检测贡献者",
+    ["Detect Testers"] = "检测测试人员",
+    ["Detect Mods/Admins(include server mods)"] = "检测管理员/检测服务器",
+    ["Detect Managers Dotect Deve"] = "检测重要开发者",
+    ["Detect Managers"] = "检测经理",
+    ["Dotect Deve"] = "检测",
 }
 
 local function translateText(text)
